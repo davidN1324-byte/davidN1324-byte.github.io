@@ -18,4 +18,4 @@ Tracks both infrastructure health and custom application metrics.
 Provides a simple, reliable interface for communication between internal services.
 
 
-📫 [Contact me](mailto:you@example.com)
+📫 [Contact me](mailto:davidnikishov1324@gmail.com)
