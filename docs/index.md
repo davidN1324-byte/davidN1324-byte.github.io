@@ -7,8 +7,15 @@ title: My Resume
 
 This is my portfolio and links to my GitHub projects:
 
-- [Project 1](https://github.com/username/project1) — Project description.
-- [Project 2](https://github.com/username/project2) — Brief description.
-- [Project 3](https://github.com/username/project3) — Another example.
+
+- [Ansible Setup](https://github.com/davidN1324-byte/Ansible-Setup) — Automated deployment of Grafana, Node Exporter, Prometheus, firewall rules, 
+and VPN access using Ansible. Ensures secure monitoring infrastructure with minimal manual configuration..
+- [Parsing Crypto Currency](https://github.com/davidN1324-byte/Parsing_Crypto_Currency) — Web scraper for cryptocurrency market data + ChatGPT API integration. 
+Generates real-time statistical insights and dynamic analytics based on live data.
+- [DevOps Monitoring](https://github.com/davidN1324-byte/DevOps-Monitoring) — Monitoring and alerting platform built with FastAPI, Prometheus, Grafana, and Alertmanager. 
+Tracks both infrastructure health and custom application metrics.
+- [Web Server](https://github.com/davidN1324-byte/W-Server) — Lightweight web server for local network data exchange. 
+Provides a simple, reliable interface for communication between internal services.
+
 
 📫 [Contact me](mailto:you@example.com)
